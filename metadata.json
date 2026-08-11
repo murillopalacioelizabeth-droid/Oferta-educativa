@@ -1,0 +1,6 @@
+{
+  "name": "Portal de Orientación SENA Calatrava",
+  "description": "Plataforma interactiva de orientación para aspirantes y aprendices del Centro de Diseño, Confección y Moda del SENA Regional Antioquia (Itagüí, Calatrava). Incluye asistente virtual con inteligencia artificial y gestor de solicitudes PQRS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
